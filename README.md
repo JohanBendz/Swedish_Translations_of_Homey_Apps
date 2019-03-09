@@ -1,0 +1,1 @@
+# Swedish_Translations_of_Homey_Apps
